@@ -5,8 +5,7 @@ date:   2024-03-28 00:00:00 +00:00
 image: /images/3dgaussian.jpg
 categories: research
 author: "Beerend Gerats"
-authors: "<strong>Beerend Gerats</strong>, Jelmer Wolterink, Seb Mol, Ivo Broeders"
+authors: "Beerend Gerats, Jelmer Wolterink, Seb Mol, Ivo Broeders"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2403.19265
 ---
-Project description
