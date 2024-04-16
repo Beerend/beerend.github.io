@@ -2,7 +2,7 @@
 layout: post
 title:  "Neural Fields for 3D Tracking of Anatomy and Surgical Instruments in Monocular Laparoscopic Video Clips"
 date:   2024-03-28 00:00:00 +00:00
-image: /images/3dgaussian.jpg
+image: /images/3dgaussian.png
 categories: research
 author: "Beerend Gerats"
 authors: "Beerend Gerats, Jelmer Wolterink, Seb Mol, Ivo Broeders"
