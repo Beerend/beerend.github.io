@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "3D Human Pose Estimation in Multi-view Operating Room Videos Using Differentiable Camera Projections"
-date:   2024-07-04 00:00:00 +00:00
+date:   2023-07-04 00:00:00 +00:00
 image: /images/3dhpe.png
 categories: research
 author: "Beerend Gerats"
 authors: "Beerend Gerats, Jelmer Wolterink, Ivo Broeders"
 venue: "AE-CAI | CARE | OR2.0 Workshop at MICCAI 2022"
+paper: https://doi.org/10.1080/21681163.2022.2155580
 arxiv: https://arxiv.org/abs/2210.11826
 ---
