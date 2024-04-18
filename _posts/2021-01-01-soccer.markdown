@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Individual Action and Group Activity Recognition in Soccer Videos from a Static Panoramic Camera"
+date:   2021-01-01 00:00:00 +00:00
+image: /images/soccer.png
+categories: research
+author: "Beerend Gerats"
+authors: "Beerend Gerats, Henri Bouma, Wouter Uijens, Gwenn Englebienne, Luuk Spreeuwers"
+venue: "International Conference on Pattern Recognition Applications and Methods"
+paper: https://doi.org/10.5220/0010303505940601
+---
