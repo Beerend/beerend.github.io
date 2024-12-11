@@ -2,7 +2,7 @@
 layout: post
 title:  "Dynamic Depth-Supervised NeRF for Multi-view RGB-D Operating Room Videos"
 date:   2023-10-08 00:00:00 +00:00
-image: /images/dynamicnerf.png
+image: /tn/images/dynamicnerf.png
 categories: research
 author: "Beerend Gerats"
 authors: "Beerend Gerats, Jelmer Wolterink, Ivo Broeders"
