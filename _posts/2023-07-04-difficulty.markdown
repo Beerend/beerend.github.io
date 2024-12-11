@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards an AI-based Assessment Model of Surgical Difficulty During Early Phase Laparoscopic Cholecystectomy"
 date:   2023-07-04 00:00:00 +00:00
-image: /tn/images/difficulty.png
+image: /images/difficulty.png
 categories: research
 author: "Beerend Gerats"
 authors: "Julian Abbing, Frank Voskens, Beerend Gerats, Ruby Egging, Fausto Milletari, Ivo Broeders"
