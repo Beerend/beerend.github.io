@@ -6,6 +6,7 @@ image: /images/3dtracking.png
 categories: research
 author: "Beerend Gerats"
 authors: "Beerend Gerats, Jelmer Wolterink, Seb Mol, Ivo Broeders"
-venue: "arXiv"
+venue: "AE-CAI | CARE | OR2.0 Workshop at MICCAI (2024)"
+paper: https://doi.org/10.1049/htl2.12113
 arxiv: https://arxiv.org/abs/2403.19265
 ---
